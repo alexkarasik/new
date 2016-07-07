@@ -56,11 +56,15 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
+BLAH BLAH BLAH
+
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### What online developer communities can you join?
+
+BLAH BLAH BLAH
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
@@ -76,6 +80,8 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What are the top 3 characteristics of great web developers?
+
+BLAH BLAH BLAH
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
@@ -887,8 +893,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
